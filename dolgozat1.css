@@ -1,0 +1,47 @@
+/*csslint  order-alphabetical:false*/
+body { 
+    background-color: #D6E3F2
+}
+
+.fo-menu {
+    background-color: #262F73;
+    height:80px;
+    width: 1000px;
+    
+}
+
+.menupont {
+    height: 50px;
+    
+    background-color: #45698E;
+    color: #D6E3F2;
+    display: inline-block;
+    padding: 30px 54px 0 54px;
+}
+.tartalom{
+    background-color: #45698E;
+    height: 1000px; 
+    color: white;
+    width: 960px;
+    padding: 20px;
+}
+
+.banner {
+    background-color: #262F73;
+    height:400px;
+    width: 900px;   
+    padding-left: 100px;
+    margin-bottom: 20px;
+}
+
+.bannerdobozok {
+    height: 250px;
+    width: 200px;
+    background-color: lightgreen;
+    color: black;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    text-align: center;
+}
