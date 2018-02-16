@@ -1,0 +1,71 @@
+body{
+    background: black;
+}
+.keret {
+    background: black;
+}
+
+.menu {
+    text-align: center;
+    padding-top:40px;
+    padding-left: 600px;
+    padding-right: 600px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+     height: 10px;
+    width: 600px;
+    background: black;
+    color:whitesmoke;
+  padding-bottom: 40px;
+    border-bottom: 2px solid white ;
+ 
+}
+
+.submenu{
+     display: inline-block;
+    margin:30px;
+    
+}
+
+.szoveg{
+    text-align: center;
+background:#505050;
+    color: white;
+    text-align: ;
+   padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 1400px;
+    margin: 0 auto;
+    
+}
+
+img{
+    width: 400px;
+    height: 200px; 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
